@@ -1,4 +1,4 @@
-Midterminal - shell project\
+Midterminal - shell project (Original repo is https://github.com/rania-w/shell)\
 \
 Task 5\
 \
